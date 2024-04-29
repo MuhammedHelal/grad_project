@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "672710567289",
+    "firebase_url": "https://healthcare-2b52c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "healthcare-2b52c",
+    "storage_bucket": "healthcare-2b52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672710567289:android:6810680918bb030ec6bba8",
+        "android_client_info": {
+          "package_name": "com.example.health_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDej0pxCBKbl9Hzj337JsT0xLVOc_NEemM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672710567289:android:2234455747ad647fc6bba8",
+        "android_client_info": {
+          "package_name": "com.weoryx.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDej0pxCBKbl9Hzj337JsT0xLVOc_NEemM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
